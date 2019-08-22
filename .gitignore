@@ -23,3 +23,8 @@ erl_crash.dump
 music_db-*.tar
 
 .DS_Store
+
+
+
+# PostgreSQL server instance log:
+postgres.log
