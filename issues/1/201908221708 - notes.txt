@@ -30,3 +30,9 @@ Start the PostgreSQL server instance:
 Run `psql`:
 
 ~/.asdf/installs/postgres/11.5/bin/psql -p 5433 -d postgres
+
+
+
+CREATE ROLE music_db_workshop WITH CREATEDB LOGIN;
+
+CREATE ROLE real_time_scalable WITH CREATEDB LOGIN;
