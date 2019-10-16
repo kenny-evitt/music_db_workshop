@@ -1,0 +1,10 @@
+ - [ ] Create a mock `Repo` (or several) and inject them where needed.
+ - [ ] Move code to our `Repo` module.
+ - [ ] Checkout iTerm and/with zsh.
+ - [ ] Get the "Programming Ecto" book. Discount code: "ElixirConf_2019_ecto".
+
+Questions:
+
+ - [x] How to organize DB code for testing? Lots of functions in the app `Repo` module? Or maybe put them in a separate module or separate modules (because of the dependency on both schemas and the repo modules)?
+
+Check the Ecto 'sandbox modes' and make sure we're passing the 'shared DB access token (or whatever)' among processes covered by a single test.

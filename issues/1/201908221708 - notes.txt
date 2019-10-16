@@ -1,4 +1,4 @@
-/Users/kenny/.asdf/installs/postgres/11.5/bin/pg_ctl -D /Users/kenny/.asdf/installs/postgres/11.5/data -l postgres.log start
+Users/kenny/.asdf/installs/postgres/11.5/bin/pg_ctl -D /Users/kenny/.asdf/installs/postgres/11.5/data -l postgres.log start
 
 ~/.asdf/installs/postgres/11.5
 
